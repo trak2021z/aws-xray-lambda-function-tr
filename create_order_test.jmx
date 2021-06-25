@@ -1,0 +1,6 @@
+# JMeter generated Header file
+Authorization	AWS4-HMAC-SHA256 Credential=ASIAXDZJOSRCZ2BZQJ2I/20210613/eu-west-1/execute-api/aws4_request, SignedHeaders=cache-control;content-length;content-type;host;postman-token;x-amz-date, Signature=3cd55afa4d26ed89c181d2fed9edb2bc89e9b7a89d593c3936bb64791fde9454
+X-Amz-Date	20210612T181716Z
+Host	rbuv4u3371.execute-api.eu-west-1.amazonaws.com
+Content-Length	129
+Content-Type	application/json
